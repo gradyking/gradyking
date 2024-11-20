@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **gradyking/gradyking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an undergraduate student dual majoring in Data Science & Computer Science at West Virginia University.
+
+## How to reach me:
+Send me an email at [gpk00003@mix.wvu.edu](mailto:gpk00003@mix.wvu.edu).
