@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate student dual majoring in Data Science & Computer Science at West Virginia University.
+I'm an undergraduate student majoring in Data Science with minors in molecular medicine, computer science, and statistics at West Virginia University.
 
 ## How to reach me:
 Send me an email at [gpk00003@mix.wvu.edu](mailto:gpk00003@mix.wvu.edu).
