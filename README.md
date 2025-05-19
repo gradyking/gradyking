@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm an undergraduate student majoring in Data Science with minors in molecular medicine, computer science, and statistics at West Virginia University. I'm involved in multiple health-related research projects, including investigating the Affordable Care Act's impact on lung cancer, and genetically monitoring over 200 viruses
 and their variants in West Virginia patient samples from all around the state.
 
-Check out my CV [here](https://github.com/gradyking/gradyking/blob/main/Grady%20King%2020250214%20CV.pdf)!
+Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gradyking/gradyking/blob/main/Grady%20King%20Current%20CV.pdf)!
 
 ## How to reach me:
 Send me an email at [gpk00003@mix.wvu.edu](mailto:gpk00003@mix.wvu.edu).
